@@ -12,4 +12,23 @@ Proof of concept of building automation framework will look like below:
 3. Building Test Automation framework
 4. Integrate ML solution and the Automation framework 
 
+**Machine learning Project Technologies**
+1. Python Programming Language
+2. Jupyter notebook
+3. Anaconda
+4. PyWavelets(v:0.5.2)
+5. Opencv-pythoN(V:3.4.3.18)
+6. Seaborn(V:0.8.1)
+7. Flask
+
+**Test Automation Project Technologies**
+1. Java Programming Language
+2. Eclipse
+3. Testng
+4. Maven
+5. Apache Log4j
+6. Selenium
+
+
+
 
