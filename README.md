@@ -42,13 +42,13 @@ My focus here is to get the advantages of machine learning(ML) in detecting UI i
 
 **Test Automation Project Technologies:**
 
-1. Python Programming Language
-2. Jupyter notebook
-3. Anaconda
-4. PyWavelets(v:0.5.2)
-5. Opencv-pythoN(V:3.4.3.18)
-6. Seaborn(V:0.8.1)
-7.Flask
+1. Java Programming Language
+2. Eclipse IDE
+3. Testng
+4. Maven
+5. Apache Log4j
+6. Selenium
+
 
 
 
