@@ -44,10 +44,16 @@ My focus here is to get the advantages of machine learning(ML) in detecting UI i
 
 
 1. Java Programming Language
-2. Eclipse
+
+
+2. Eclipse IDE
+
 3.Testng
+
 4. Maven
+
 5.Apache Log4j
+
 6. Selenium
 
 
