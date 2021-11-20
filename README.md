@@ -38,6 +38,7 @@ My focus here is to get the advantages of machine learning(ML) in detecting UI i
 5. Opencv-pythoN(V:3.4.3.18)
 6. Seaborn(V:0.8.1)
 7.Flask
+8.PyCharm IDE
 
 
 **Test Automation Project Technologies:**
