@@ -51,6 +51,14 @@ My focus here is to get the advantages of machine learning(ML) in detecting UI i
 6. Selenium
 
 
+**Benefits of this tool**
+
+1. No UI automation code is needed at all
+2. Reduce the time for UI automation testing
+3. The tool support bulk fatures
+4. Test report mechanism 
+5. Reduce the team cost  
+
 
 
 
