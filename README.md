@@ -1,5 +1,5 @@
 # Building-Test-Automation-Framework-Using-Machine-Learning
-In this repo I will build test automation framework using machine learning in the error detection and prediction. I am currently working on this project, which is innovative and uniqueness Idea. I divided this project into couple of projects, and every time I will cover specific functionality in automation, and I will try to see how I can implement ML. The first phase will be cover UI testing.
+In this on going repo I will build test automation framework using machine learning in the error detection and prediction. I am currently working on this project, which is innovative and uniqueness Idea. I divided this project into couple of projects, and every time I will cover specific functionality in automation, and I will try to see how I can implement ML. The first phase will be cover UI testing.
 Proof of concept of building automation framework will look like below:
 ![image](https://user-images.githubusercontent.com/73906550/139382494-58696789-ce51-4ba4-8dfb-c021622c715b.png)
 
