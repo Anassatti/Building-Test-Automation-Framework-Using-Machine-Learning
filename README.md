@@ -45,7 +45,7 @@ My focus here is to get the advantages of machine learning(ML) in detecting UI i
 I finished the building ML model, which detects human faces by using Open CV capabilities. The solution showed the results in terms of percentages(Probability), which means if the user uploads image of the same person and if it is the right image the system will show, for example, 95% John, etc.., the result displayed in the simple HTML page.
 
 
-**Next step**
+**learned lessons**
 The above solution explains how ML works in detecting human faces, but our goal is to detect UI screen elements and classify them. We will use the same concept in detecting faces. Therefore, in the regression test the QA engineer write automation code to cover UI screens, so instead of spending time in building a framework that contains many classes, just by dragging & dropping the tool will be able to know if there is any difference happened on the screens and generate the same above report HTML with details. Open CV cannot provide this elements detecting, so we will use Sikuli, deep learning.
 
 **Test Automation Project Technologies:**
