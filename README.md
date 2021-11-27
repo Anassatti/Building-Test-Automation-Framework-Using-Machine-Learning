@@ -39,7 +39,14 @@ My focus here is to get the advantages of machine learning(ML) in detecting UI i
 6. Seaborn(V:0.8.1)
 7. Flask
 8. PyCharm
+9. Sikuli
+10. Deep Learning
 
+I am finished from buidling ML model, which detect human faces by using Open CV capabilities. The solution will show the results in terms of percentages(Properbility), which means if the we upload image of the same person and if it is right image the system will show, for example 95% John etc, the result will display in the web page. All the user can do is upload any image wants, the solution will show the result accordingly. I will explain  how this solution works.
+
+
+**Next step**
+Above solution explains how ML works in detecting human faces, but our goal is to detect UI screen elements and classify them, and use the same concept in detect faces. When the QA engineer upload UI screens he/she need to test and instead of spent a lot of time write automation code contains many classes, just by drag& drop the tool will be able to know if there is any difference happened on the screens and generate the same above report HTML with details. To do that we will use deep learing and Sikuli.
 
 **Test Automation Project Technologies:**
 
@@ -49,6 +56,7 @@ My focus here is to get the advantages of machine learning(ML) in detecting UI i
 4. Maven
 5. Apache Log4j
 6. Selenium
+7. Python
 
 
 **Benefits of this tool**
