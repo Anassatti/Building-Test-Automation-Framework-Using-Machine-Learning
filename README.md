@@ -42,7 +42,9 @@ My focus here is to get the advantages of machine learning(ML) in detecting UI i
 9. Sikuli
 10. Deep Learning
 
-I finished the building ML model, which detects human faces by using Open CV capabilities. The solution showed the results in terms of percentages(Probability), which means if the user uploads image of the same person and if it is the right image the system will show, for example, 95% John, etc.., the result displayed in the simple HTML page.
+I finished the building ML model, which detects human faces by using Open CV capabilities. The solution showed the results in terms of percentages(Probability), which means if the user uploads image of the same person and if it is the right image the system will show, for example, 95% John, etc.., the result displayed in the simple HTML page. Below sample of how ML detect faces
+![image](https://user-images.githubusercontent.com/73906550/144591890-d84ce314-bac3-4cd1-a29f-6200d562a1d2.png)
+
 
 
 **learned lessons**
