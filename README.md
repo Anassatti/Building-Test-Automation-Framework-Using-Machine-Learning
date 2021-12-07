@@ -45,6 +45,11 @@ My focus here is to get the advantages of machine learning(ML) in detecting UI i
 I finished the building ML model, which detects human faces by using Open CV capabilities. The solution showed the results in terms of percentages(Probability), which means if the user uploads image of the same person and if it is the right image the system will show, for example, 95% John, etc.., the result displayed in the simple HTML page. Below sample of how ML detect faces
 ![image](https://user-images.githubusercontent.com/73906550/144591890-d84ce314-bac3-4cd1-a29f-6200d562a1d2.png)
 
+**Another example applied on five celebrities** 
+
+As we can see below the accuracy ML can offer in detect the faces, for example the ML knows face of Muhammed Salah by socring him 79.33 propability.
+
+![image](https://user-images.githubusercontent.com/73906550/145087387-c759f5c2-e25b-47ea-8703-9c2e0554382c.png)
 
 
 **learned lessons**
