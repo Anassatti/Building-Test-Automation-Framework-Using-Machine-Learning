@@ -47,7 +47,7 @@ I finished the building ML model, which detects human faces by using Open CV cap
 
 **Another example applied on five celebrities** 
 
-As we can see below the accuracy ML can offer in detect the faces, for example the ML knows face of Muhammed Salah by socring him 79.33 propability.
+As we can see below the accuracy ML offer in detecting the faces, for example the ML knows face of Muhammed Salah by socring him 79.33 propability.
 
 ![image](https://user-images.githubusercontent.com/73906550/145087387-c759f5c2-e25b-47ea-8703-9c2e0554382c.png)
 
