@@ -49,8 +49,7 @@ I finished the building ML model, which detects human faces by using Open CV cap
 
 As we can see below the accuracy ML offer in detecting the faces, for example the ML knows face of Muhammed Salah by socring him 79.33 propability.
 
-![image](https://user-images.githubusercontent.com/73906550/145087387-c759f5c2-e25b-47ea-8703-9c2e0554382c.png)
-
+![image](https://user-images.githubusercontent.com/73906550/145156222-21200402-d5bd-478b-9898-e6616195b867.png)
 
 **learned lessons**
 The above solution explains how ML works in detecting human faces, but our goal is to detect UI screen elements and classify them. We will use the same concept in detecting faces. Therefore, in the regression test the QA engineer write automation code to cover UI screens, so instead of spending time in building a framework that contains many classes, just by dragging & dropping the tool will be able to know if there is any difference happened on the screens and generate the same above report HTML with details. Open CV cannot provide this elements detecting, so we will use Sikuli, deep learning.
