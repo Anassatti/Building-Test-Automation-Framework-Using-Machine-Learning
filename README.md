@@ -57,7 +57,7 @@ We added a new feature to the tool, which detect any difference in the UI using 
 **Advantages**
 1. No code experience is required
 2. Fastest result
-3. Test Result 
+3. HTML Report contains summary 
 4. Save automation time
 5. Zero cost
 6. High percentage accuracy.
