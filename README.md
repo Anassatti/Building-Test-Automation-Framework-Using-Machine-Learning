@@ -49,6 +49,19 @@ I finished the building ML model, which detects human faces by using Open CV cap
 **learned lessons**
 The above solution explains how ML works in detecting human faces, but our goal is to detect UI screen elements and classify them. We will use the same concept in detecting faces. Therefore, in the regression test the QA engineer write automation code to cover UI screens, so instead of spending time in building a framework that contains many classes, just by dragging & dropping the tool will be able to know if there is any difference happened on the screens and generate the same above report HTML with details. Open CV cannot provide this elements detecting, so we will use object detections using deep learning YOLO, we will focused on the image classifications, which will help out in detect the controls in the screens.
 
+We added a new feature to the tool, which detect any difference in the UI using OpenCV, which will alow Automation engineers to have a sense if there is any change in the UI level. The tool works with same concept of regression testing, which after any bug fixing process will ensue there is no impact on the system other than the issue itself, which get fixed. Therefore, the process of the tool:
+
+1.Store original  application screens 
+2. Detect any difference in the screen by compare a new screen with one already stored and tell if there is any difference
+
+**Advantages**
+1. No code experience is required
+2. Fastest result
+3. Test Result 
+4. Save automation time
+5. Zero cost
+6. High percentage accuracy.
+
 **Test Automation Project Technologies:**
 
 1. Java Programming Language
