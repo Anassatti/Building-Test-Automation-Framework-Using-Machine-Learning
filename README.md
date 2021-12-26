@@ -51,9 +51,9 @@ The above solution explains how ML works in detecting human faces, but our goal 
 
 ***UI Automation***
 
-**RegressVisaul Tool**
+**RegressVisual Tool**
 
-We added a new feature to the tool, which detect any difference in the UI using AI, which will alow Automation engineers to have a sense if there is any change at the UI level. The tool focus on the regression testing, which as a concept mean after any bug fixin, the tester should check is the bug fixed, and see if there is any impact on the application. the process of the tool:
+As part of this project, we started with UI automation, we design, and implement a new tool called ** RegressVisual**  this tool detect any difference in the UI using AI, which will alow Automation engineers to have a sense if there is any change at the UI level. The tool focus on the regression testing, which as a concept mean after any bug fixin, the tester should check is the bug fixed, and see if there is any impact on the application. the process of the tool:
 
 
 **Advantages**
