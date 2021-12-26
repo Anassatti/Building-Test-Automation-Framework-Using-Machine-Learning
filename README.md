@@ -49,20 +49,20 @@ I finished the building ML model, which detects human faces by using Open CV cap
 **learned lessons**
 The above solution explains how ML works in detecting human faces, but our goal is to detect UI screen elements and classify them. We will use the same concept in detecting faces. Therefore, in the regression test the QA engineer write automation code to cover UI screens, so instead of spending time in building a framework that contains many classes, just by dragging & dropping the tool will be able to know if there is any difference happened on the screens and generate the same above report HTML with details. Open CV cannot provide this elements detecting, so we will use object detections using deep learning YOLO, we will focused on the image classifications, which will help out in detect the controls in the screens.
 
-***New Tool***
+***UI Automation***
 
-We added a new feature to the tool, which detect any difference in the UI using OpenCV, which will alow Automation engineers to have a sense if there is any change in the UI level. The tool works with same concept of regression testing, which after any bug fixing process will ensue there is no impact on the system other than the issue itself, which get fixed. Therefore, the process of the tool:
+**RegressVisaul Tool**
 
-1.Store original  application screens 
-2. Detect any difference in the screen by compare a new screen with one already stored and tell if there is any difference
+We added a new feature to the tool, which detect any difference in the UI using AI, which will alow Automation engineers to have a sense if there is any change at the UI level. The tool focus on the regression testing, which as a concept mean after any bug fixin, the tester should check is the bug fixed, and see if there is any impact on the application. the process of the tool:
+
 
 **Advantages**
 1. No code experience is required
 2. Fastest result
 3. HTML Report contains summary 
-4. Save automation time
-5. Zero cost
-6. High percentage accuracy.
+4. Redue automation time
+5.Accurate Result
+6. High accuracy.
 
 **Test Automation Project Technologies:**
 
@@ -74,14 +74,6 @@ We added a new feature to the tool, which detect any difference in the UI using 
 6. Selenium
 7. Python
 
-
-**Benefits of this tool**
-
-1. No UI automation code is needed at all
-2. Reduce the time for UI automation testing
-3. The tool support bulk fatures
-4. Test report mechanism 
-5. Reduce the team cost  
 
 
 
