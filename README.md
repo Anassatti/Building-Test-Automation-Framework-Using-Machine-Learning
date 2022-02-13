@@ -1,6 +1,7 @@
 # Building-Test-Automation-Framework-Using-Machine-Learning
-In this on going repo I will build test automation framework using machine learning in the error detection and prediction. I am currently working on this project, which is innovative and uniqueness Idea. I divided this project into couple of projects, and every time I will cover specific functionality in automation, and I will try to see how I can implement ML. The first phase will be cover UI testing.
+I will build a test automation framework using machine learning in error detection and prediction in this ongoing repo. I am currently working on this project, which is an innovative and unique Idea. I divided this project into a couple of projects, and every time I will cover specific functionality in automation, I will try to see how I can implement ML. The first phase will be cover UI testing.
 Proof of concept of building automation framework will look like below:
+
 ![image](https://user-images.githubusercontent.com/73906550/139382494-58696789-ce51-4ba4-8dfb-c021622c715b.png)
 
 **Project phases**
@@ -16,7 +17,7 @@ I follow divide and conquer concepts, which means break the projects into sub-pr
 
 **Building Machine Learning Solution for image process**
 
-My focus here is to get the advantages of machine learning(ML) in detecting UI issues. Suggested solution structure depends only drag & drop the screens under the test, the process will be as below:
+My focus is to get the advantages of machine learning(ML) in detecting UI issues. The suggested solution structure depends only on drag & drop the screens under the test; the process will be as below:
 
 1. Compare two screens, the original screen, and the same screen 
 2. ML will detect if there are any differences 
@@ -42,18 +43,19 @@ My focus here is to get the advantages of machine learning(ML) in detecting UI i
 9. Sikuli
 10. Deep Learning
 
-I finished the building ML model, which detects human faces by using Open CV capabilities. The solution showed the results in terms of percentages(Probability), which means if the user uploads image of the same person and if it is the right image the system will show, for example, 95% John, etc.., the result displayed in the simple HTML page. Below sample of how ML detect faces. As we can see below the accuracy ML offer in detecting the faces, for example the ML knows face of Muhammed Salah by socring him 79.33 propability.
+I finished building the ML model, which detects human faces using Open CV capabilities. The solution showed the results in percentages(Probability), which means the user uploads an image of the same person. If it is the right image, the system will show, for example, 95% John, etc.., the result displayed on the simple HTML page. As we can see below, ML's accuracy in detecting the faces. For example, the ML detects superstar Muhammed Salah's face by scoring him 79.33 probability. Below is a sample of how ML detects faces.
 
 ![image](https://user-images.githubusercontent.com/73906550/145156222-21200402-d5bd-478b-9898-e6616195b867.png)
 
 **learned lessons**
-The above solution explains how ML works in detecting human faces, but our goal is to detect UI screen elements and classify them. We will use the same concept in detecting faces. My target is to help QA engineers in regression test automation, when write automation code to cover UI screens, so instead of spending time in building a framework that contains many classes, just by dragging & dropping the tool will be able to know if there is any difference happened on the screens and generate the same above report HTML with details. Open CV cannot provide this elements detecting, so we will use object detections using deep learning YOLO, we will focused on the image classifications, which will help out in detect the controls in the screens.
+The above solution explains how ML detects human faces, but our goal is to detect UI screen elements and classify them. My target is to help test automation engineers reduce the effort of writing automation code to cover UI screens and build frameworks using a tool that works by only dragging & dropping the UI screen. The tool will detect any difference in the screens control levels and generate the same above report HTML with details. Therefore, OpenCV cannot detect UI elements, so I will use another approach that is available in object detections using deep learning YOLO. We will focus on the image classifications, which will help detect the controls in the screens.
 
 ***UI Automation***
 
 **RegressVisual Tool**
 
-As part of this project, we started with UI automation, we design, and implement a new tool called **RegressVisual**  this tool detect any difference in the UI using AI, which will alow Automation engineers to have a sense if there is any change at the UI level. The tool focus on the regression testing, which as a concept mean after any bug fixin, the tester should check is the bug fixed, and see if there is any impact on the application. Below the tool, which has simple functionality only drag and drop the screen the RegressVisaul smart tool will do the rest.
+As part of the overall project modules, I designed and implemented a new tool named **RegressVisual**. This tool helps detect any difference in the UI using AI, which will help Automation engineers to have a sense of whether there is any change at the UI level. The tool focuses on regression testing, which means that after any bug fixing, the tester should check if there is any impact on the application. Below the tool, which has a simple interface, the tester will drag the UI and drop, and The RegressVisaul innovative tool will do the rest.
+
 ![image](https://user-images.githubusercontent.com/73906550/148179647-55a461fa-4f6f-448c-9501-371af02fc949.png)
 
 
@@ -65,15 +67,6 @@ As part of this project, we started with UI automation, we design, and implement
 5.Accurate Result
 6. High accuracy.
 
-**Test Automation Project Technologies:**
-
-1. Java Programming Language
-2. Eclipse IDE
-3. Testng
-4. Maven
-5. Apache Log4j
-6. Selenium
-7. Python
 
 
 
