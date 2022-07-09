@@ -52,6 +52,14 @@ The above solution explains how ML detects human faces, but our goal is to detec
 
 ***UI Automation***
 
+**UI Automation Challenges**
+1. Complicated Web Applications
+2. UI changes
+3. Choosing test automation tool
+4. Error handling
+5.Image comparison
+
+
 **RegressVisual Tool**
 
 As part of the overall project modules, I designed and implemented a new tool named **RegressVisual**. This tool helps detect any difference in the UI using AI, which will help Automation engineers to have a sense of whether there is any change at the UI level. The tool focuses on regression testing, which means that after any bug fixing, the tester should check if there is any impact on the application. Below the tool, which has a simple interface, the tester will drag the UI and drop, and The RegressVisaul innovative tool will do the rest.
