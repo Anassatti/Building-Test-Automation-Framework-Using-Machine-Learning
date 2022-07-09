@@ -65,7 +65,7 @@ As part of the overall project modules, I designed and implemented a new tool na
 3. HTML Report contains summary 
 4. Redue automation time
 5.Accurate Result
-6. High accuracy.
+
 
 
 
