@@ -64,7 +64,7 @@ As part of the overall project modules, I designed and implemented a new tool na
 2. Fastest result
 3. HTML Report contains summary 
 4. Redue automation time
-5.Accurate Result
+5. Accurate Result
 
 
 
