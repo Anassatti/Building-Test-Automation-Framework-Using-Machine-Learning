@@ -36,6 +36,7 @@ As I mentioned ealier this tool help in regression testing automation effort by 
 4. Error handling
 5.Image comparison
 
+I overcome all these challenges in the below RegressVisaul tool architecture:
 
 **Tool Architecture**
 
