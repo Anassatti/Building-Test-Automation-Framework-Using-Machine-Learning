@@ -10,6 +10,7 @@ For couples of years I was thinking to reduce the effort and the time spent in r
 2.	Design phase- Done
 3.	Implementation: Done
 I follow divide and conquer concepts, which means break the projects into sub-projects as the below:
+
   **1. Building Machine Learning Solution for image processing by trying to detect human faces** 
     **The purpose of this steps is to gain experience in ML**
 
