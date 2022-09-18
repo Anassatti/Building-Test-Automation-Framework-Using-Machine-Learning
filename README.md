@@ -74,6 +74,13 @@ As part of the overall project modules, I designed and implemented a new tool na
 4. Redue automation time
 5. Accurate Result
 
+***HTML report***
+
+The tool generates an HTML report with the ability to share in the email as a link or attach PDFs and SMS notifications.
+The report looks like below
+
+![image](https://user-images.githubusercontent.com/73906550/190888637-9113e7b2-b4b7-472e-acd0-c1c4c827d7be.png)
+
 
 
 
