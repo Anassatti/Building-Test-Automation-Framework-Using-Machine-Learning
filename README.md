@@ -19,6 +19,11 @@ I finished building the ML model, which detects human faces using Open CV capabi
 
 ![image](https://user-images.githubusercontent.com/73906550/145156222-21200402-d5bd-478b-9898-e6616195b867.png)
 
+Also, I used the model in detect my friend picture
+
+![image](https://user-images.githubusercontent.com/73906550/190891211-6b5aa5cd-9e49-4029-ad52-c28325963c23.png)
+
+
 **2. Improve ML solution to detect the differences in UI, means comparing two images and detecting what the changes happen**
 
  1. Integrate ML solution component in the SAS, below structure(Designed by Me as part of this project effort) show that:
