@@ -2,7 +2,8 @@
 
 **Indroduction**
 
-For couples of years I was thinking to reduce the effort and the time spent in regression testing, which is unavoidable depiste integration of automation testing. Use automation tools in regression help a lot, but still writing a code and build a roboust test automation framework need experience person, who has a solid technical background.So, from here I came up with idea how to fully unitlize manual testers who do not have technical background and let them be part of automation effort and definitly ROI will increase. Therefore, RegressVisual tool comes to the light. This tool detect any issues in UI using deep learing and ML.
+For a couple of years, I was thinking to reduce the effort and the time spent in regression testing, which is unavoidable despite the integration of automation testing. Using automation tools in regression help a lot, but still writing code and building a robust test automation framework need an experienced person, who has a solid technical background. So, from here I came up with an idea of how to fully utilize manual testers who do not have a technical background and let them be part of the automation effort, and ROI will increase. Therefore, the RegressVisual tool comes to the light. This tool detects any issues in UI using deep learning and ML.
+
 
 **Project phases**
 
@@ -20,7 +21,7 @@ I finished building the ML model, which detects human faces using Open CV capabi
 
 **2. Improve ML solution to detect the differences in UI, means comparing two images and detecting what the changes happen**
 
- 1. Integrate ML solution component in the SAS, below structure(Designed by Me as part if this project effort) show that:
+ 1. Integrate ML solution component in the SAS, below structure(Designed by Me as part of this project effort) show that:
  
  ![image](https://user-images.githubusercontent.com/73906550/139382494-58696789-ce51-4ba4-8dfb-c021622c715b.png)
 
@@ -78,6 +79,10 @@ Impact: The tool has specific module for self-learning from the error and show p
 2. ML&DL will detect if there are any differences 
 3. Generate probability percentage report and the UI name(ex.user registration form, probability score(ex.95%))
 4. Generate complete testng HTML report showing more details, which help the developers fix the issue
+
+**The tool webpage**
+
+![image](https://user-images.githubusercontent.com/73906550/190891076-2a8888db-d945-4c1b-81ff-6c7c2443e34f.png)
 
 
 ***HTML report Generated***
