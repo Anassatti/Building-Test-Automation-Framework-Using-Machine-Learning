@@ -10,15 +10,24 @@ For couples of years I was thinking to reduce the effort and the time spent in r
 2.	Design phase- Done
 3.	Implementation: Done
 I follow divide and conquer concepts, which means break the projects into sub-projects as the below:
-1. Building Machine Learning Solution for image processing by trying to detect human faces. The purpose of this steps is to gain experience in ML.
-2. Improve ML solution to detect the differences in UI, means comparing two images and detecting what the changes happen
-3. Using my Software automation solution I built
-4.Integrate ML solution with Software automation solution
+  **1. Building Machine Learning Solution for image processing by trying to detect human faces** 
+    **The purpose of this steps is to gain experience in ML**
+
+I finished building the ML model, which detects human faces using Open CV capabilities. The solution showed the results in percentages(Probability), which means the user uploads an image of the same person. If it is the right image, the system will show, for example, 95% John, etc.., the result displayed on the simple HTML page. As we can see below, ML's accuracy in detecting the faces. For example, the ML detects superstar Muhammed Salah's face by scoring him 79.33 probability. Below is a sample of how ML detects faces. Below the results 
+
+![image](https://user-images.githubusercontent.com/73906550/145156222-21200402-d5bd-478b-9898-e6616195b867.png)
+
+**2. Improve ML solution to detect the differences in UI, means comparing two images and detecting what the changes happen**
+
+ 1. Integrate ML solution component in the SAS, below structure show that:
+ 
+ ![image](https://user-images.githubusercontent.com/73906550/139382494-58696789-ce51-4ba4-8dfb-c021622c715b.png)
+
 
 
 **Building Machine Learning Solution for image process**
 
-My focus is to get the advantages of machine learning(ML) in detecting UI issues. The suggested solution structure depends only on drag & drop the screens under the test; the process will be as below:
+
 
 1. Compare two screens, the original screen, and the same screen 
 2. ML will detect if there are any differences 
@@ -44,9 +53,7 @@ My focus is to get the advantages of machine learning(ML) in detecting UI issues
 9. Sikuli
 10. Deep Learning
 
-I finished building the ML model, which detects human faces using Open CV capabilities. The solution showed the results in percentages(Probability), which means the user uploads an image of the same person. If it is the right image, the system will show, for example, 95% John, etc.., the result displayed on the simple HTML page. As we can see below, ML's accuracy in detecting the faces. For example, the ML detects superstar Muhammed Salah's face by scoring him 79.33 probability. Below is a sample of how ML detects faces.
 
-![image](https://user-images.githubusercontent.com/73906550/145156222-21200402-d5bd-478b-9898-e6616195b867.png)
 
 **learned lessons**
 The above solution explains how ML detects human faces, but our goal is to detect UI screen elements and classify them. My target is to help test automation engineers reduce the effort of writing automation code to cover UI screens and build frameworks using a tool that works by only dragging & dropping the UI screen. The tool will detect any difference in the screens control levels and generate the same above report HTML with details. Therefore, OpenCV cannot detect UI elements, so I will use another approach that is available in object detections using deep learning YOLO. We will focus on the image classifications, which will help detect the controls in the screens.
@@ -83,7 +90,7 @@ The report looks like below
 ![image](https://user-images.githubusercontent.com/73906550/190888637-9113e7b2-b4b7-472e-acd0-c1c4c827d7be.png)
 
 
-![image](https://user-images.githubusercontent.com/73906550/139382494-58696789-ce51-4ba4-8dfb-c021622c715b.png)
+
 
 
 
