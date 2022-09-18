@@ -20,7 +20,7 @@ I finished building the ML model, which detects human faces using Open CV capabi
 
 **2. Improve ML solution to detect the differences in UI, means comparing two images and detecting what the changes happen**
 
- 1. Integrate ML solution component in the SAS(My structure), below structure show that:
+ 1. Integrate ML solution component in the SAS, below structure(Designed by Me as part if this project effort) show that:
  
  ![image](https://user-images.githubusercontent.com/73906550/139382494-58696789-ce51-4ba4-8dfb-c021622c715b.png)
 
