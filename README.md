@@ -33,7 +33,7 @@ Also, I used the model in detect my friend picture
 
 **RegressVisual Tool**
 
-As I mentioned ealier this tool help in regression testing automation effort by allow manual or automation testers to visually detect any differences in UI. Below are the challenges any software test automation engineer face in the UI automation.
+As I mentioned earlier this tool help in regression testing automation effort by allowing manual or automation testers to visually detect any differences in UI. Below is the challenges any software test automation engineer face in UI automation.
 
 **UI Automation Challenges**
 1. Complicated Web Applications
