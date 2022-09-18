@@ -1,18 +1,17 @@
 # Building-Test-Automation-Framework-Using-Machine-Learning
-I will build a test automation framework using machine learning in error detection and prediction in this ongoing repo. I am currently working on this project, which is an innovative and unique Idea. I divided this project into a couple of projects, and every time I will cover specific functionality in automation, I will try to see how I can implement ML. The first phase will be cover UI testing.
-Proof of concept of building automation framework will look like below:
 
-![image](https://user-images.githubusercontent.com/73906550/139382494-58696789-ce51-4ba4-8dfb-c021622c715b.png)
+**Indroduction**
+For couples of years I was thinking to reduce the effort and the time spent in regression testing, which is unavoidable depiste integration of automation testing. Use automation tools in regression help a lot, but still writing a code and build a roboust test automation framework need experience person, who has a solid technical background.So, from here I came up with idea how to fully unitlize manual testers who do not have technical background and let them be part of automation effort and definitly ROI will increase. Therefore, RegressVisual tool comes to the light. This tool detect any issues in UI using deep learing and ML.
 
 **Project phases**
 1.	Planning- Done
 2.	Design phase- Done
-3.	Implementation:
+3.	Implementation: Done
 I follow divide and conquer concepts, which means break the projects into sub-projects as the below:
-1. Building Machine Learning Solution for image process
+1. Building Machine Learning Solution for image processing by trying to detect human faces. The purpose of this steps is to gain experience in ML.
 2. Improve ML solution to detect the differences in UI, means comparing two images and detecting what the changes happen
-3. Building Test Automation framework
-4.Integrate ML solution and the Automation framework
+3. Using my Software automation solution I built
+4.Integrate ML solution with Software automation solution
 
 
 **Building Machine Learning Solution for image process**
@@ -82,6 +81,7 @@ The report looks like below
 ![image](https://user-images.githubusercontent.com/73906550/190888637-9113e7b2-b4b7-472e-acd0-c1c4c827d7be.png)
 
 
+![image](https://user-images.githubusercontent.com/73906550/139382494-58696789-ce51-4ba4-8dfb-c021622c715b.png)
 
 
 
