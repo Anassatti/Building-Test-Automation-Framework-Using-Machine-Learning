@@ -47,16 +47,21 @@ I overcome all these challenges in the below RegressVisaul tool architecture:
 **Challenge #1**: UI automation testing is time-consuming & complicated. Websites contain frames, tables, and pop-up
 windows, so the software test automation engineers need to write complex, time-consuming code to automate and
 reach this area.
+
 Impact: This tool does not need to write any codes and save coding time because the tool tests the screen controls and
 dimensions automatically by simple function drag & drop.
+
 **Challenge #2**: Change UI constantly challenge.
+
 Impact: This tool deal with screen whatever there is any changes.
 
-**Challenge #3**: Programming Language experience is required to build test automation framework
+**Challenge #3**: Programming Language experience is required to build test automation framework.
+
 Impact: This tool requires no prior technical experience, business user can use it, does not require any building
 framework.
 
-**Challenge #4**: UI Error handling
+**Challenge #4**: UI Error handling.
+
 Impact: The tool has specific module for self-learning from the error and show possible solutions.
 
 **Tool Advantages& Features**
@@ -84,7 +89,7 @@ The report looks like below
 
 
 
-**Machine learning Project Technologies:**
+**Tools & Technology I used:**
 
 1. Python Programming Language
 2. Jupyter notebook
