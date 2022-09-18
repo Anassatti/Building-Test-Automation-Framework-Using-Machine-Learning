@@ -1,9 +1,11 @@
 # Building-Test-Automation-Framework-Using-Machine-Learning
 
 **Indroduction**
+
 For couples of years I was thinking to reduce the effort and the time spent in regression testing, which is unavoidable depiste integration of automation testing. Use automation tools in regression help a lot, but still writing a code and build a roboust test automation framework need experience person, who has a solid technical background.So, from here I came up with idea how to fully unitlize manual testers who do not have technical background and let them be part of automation effort and definitly ROI will increase. Therefore, RegressVisual tool comes to the light. This tool detect any issues in UI using deep learing and ML.
 
 **Project phases**
+
 1.	Planning- Done
 2.	Design phase- Done
 3.	Implementation: Done
