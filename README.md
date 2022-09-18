@@ -83,11 +83,12 @@ Impact: The tool has specific module for self-learning from the error and show p
 1. Compare two screens, the original screen, and the same screen  through Drag& Drop
 2. ML&DL will detect if there are any differences 
 3. Generate probability percentage report and the UI name(ex.user registration form, probability score(ex.95%))
-4. Generate complete testng HTML report showing more details, which help the developers fix the issue
+4. Generate a complete HTML report showing more details, which help the developers fix the issue
 
 **The tool webpage**
 
-![image](https://user-images.githubusercontent.com/73906550/190891076-2a8888db-d945-4c1b-81ff-6c7c2443e34f.png)
+![image](https://user-images.githubusercontent.com/73906550/190892878-7b9d6d15-f76b-4996-a4ab-5690fd027150.png)
+
 
 
 ***HTML report Generated***
