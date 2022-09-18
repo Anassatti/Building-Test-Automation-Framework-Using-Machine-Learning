@@ -24,21 +24,47 @@ I finished building the ML model, which detects human faces using Open CV capabi
  ![image](https://user-images.githubusercontent.com/73906550/139382494-58696789-ce51-4ba4-8dfb-c021622c715b.png)
 
 
+**RegressVisual Tool**
 
-**Building Machine Learning Solution for image process**
+As I mentioned ealier this tool help in regression testing automation effort by allow manual or automation testers to visually detect any differences in UI. Below are the challenges any software test automation engineer face in the UI automation.
+
+**UI Automation Challenges**
+1. Complicated Web Applications
+2. UI changes
+3. Choosing test automation tool
+4. Error handling
+5.Image comparison
 
 
+**Tool Architecture**
 
-1. Compare two screens, the original screen, and the same screen 
-2. ML will detect if there are any differences 
+![image](https://user-images.githubusercontent.com/73906550/140051684-fc834caf-803f-45e3-8e59-6e574f17eab3.png)
+
+
+**Tool Advantages& Features**
+1. No code experience is required
+2. Fastest result
+3. HTML Report contains summary 
+4. Redue automation time
+5. Accurate Result
+
+
+**How the tools works**
+
+1. Compare two screens, the original screen, and the same screen  through Drag& Drop
+2. ML&DL will detect if there are any differences 
 3. Generate probability percentage report and the UI name(ex.user registration form, probability score(ex.95%))
 4. Generate complete testng HTML report showing more details, which help the developers fix the issue
 
 
-**Below Machine Learning solution structure**
+***HTML report Generated***
+
+The tool generates an HTML report with the ability to share in the email as a link or attach PDFs and SMS notifications.
+The report looks like below
+
+![image](https://user-images.githubusercontent.com/73906550/190888637-9113e7b2-b4b7-472e-acd0-c1c4c827d7be.png)
 
 
-![image](https://user-images.githubusercontent.com/73906550/140051684-fc834caf-803f-45e3-8e59-6e574f17eab3.png)
 
 **Machine learning Project Technologies:**
 
@@ -55,39 +81,11 @@ I finished building the ML model, which detects human faces using Open CV capabi
 
 
 
-**learned lessons**
-The above solution explains how ML detects human faces, but our goal is to detect UI screen elements and classify them. My target is to help test automation engineers reduce the effort of writing automation code to cover UI screens and build frameworks using a tool that works by only dragging & dropping the UI screen. The tool will detect any difference in the screens control levels and generate the same above report HTML with details. Therefore, OpenCV cannot detect UI elements, so I will use another approach that is available in object detections using deep learning YOLO. We will focus on the image classifications, which will help detect the controls in the screens.
-
-***UI Automation***
-
-**UI Automation Challenges**
-1. Complicated Web Applications
-2. UI changes
-3. Choosing test automation tool
-4. Error handling
-5.Image comparison
-
-
-**RegressVisual Tool**
-
-As part of the overall project modules, I designed and implemented a new tool named **RegressVisual**. This tool helps detect any difference in the UI using AI, which will help Automation engineers to have a sense of whether there is any change at the UI level. The tool focuses on regression testing, which means that after any bug fixing, the tester should check if there is any impact on the application. Below the tool, which has a simple interface, the tester will drag the UI and drop, and The RegressVisaul innovative tool will do the rest.
-
 ![image](https://user-images.githubusercontent.com/73906550/148179647-55a461fa-4f6f-448c-9501-371af02fc949.png)
 
 
-**Advantages**
-1. No code experience is required
-2. Fastest result
-3. HTML Report contains summary 
-4. Redue automation time
-5. Accurate Result
 
-***HTML report***
 
-The tool generates an HTML report with the ability to share in the email as a link or attach PDFs and SMS notifications.
-The report looks like below
-
-![image](https://user-images.githubusercontent.com/73906550/190888637-9113e7b2-b4b7-472e-acd0-c1c4c827d7be.png)
 
 
 
