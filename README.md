@@ -77,6 +77,7 @@ Impact: The tool has specific module for self-learning from the error and show p
 4. Redue automation time
 5. Accurate result
 6. Jira integration: Means the tool automatically will open Jira issue with screenshot.
+7. Integrate with Google Cloud
 
 
 **How the tools works**
