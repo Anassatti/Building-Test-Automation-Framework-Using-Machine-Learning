@@ -75,7 +75,8 @@ Impact: The tool has specific module for self-learning from the error and show p
 2. Fastest result
 3. HTML Report contains summary 
 4. Redue automation time
-5. Accurate Result
+5. Accurate result
+6. Jira integration: Means the tool automatically will open Jira issue with screenshot.
 
 
 **How the tools works**
