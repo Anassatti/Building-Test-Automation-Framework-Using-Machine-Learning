@@ -112,7 +112,7 @@ The report looks like below
 7. Flask
 8. PyCharm
 9. Sikuli
-10. Deep Learning
+10. Deep Learning(Convolutional Neural Networks (CNNs)
 
 
 
