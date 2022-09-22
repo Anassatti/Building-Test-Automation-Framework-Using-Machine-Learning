@@ -4,7 +4,7 @@
 
 For a couple of years, I was thinking about using machine learning and deep learning in automation and manual testing to save the time spent by the testers and increase their efficiency. There are two areas in that I am targeted regression test and in bug detection.
 
-**what is the Regression test**
+**What is the Regression test**
 
 In simple words, a regression test is a kind of test testers do after bug fixing to ensure that there is no impact on other functionalities and that everything working well.
 
