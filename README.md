@@ -12,7 +12,7 @@ In simple words, a regression test is a kind of test testers do after bug fixing
 
 The bug is an error or exception that happened during the testing process to prevent the UAT from working as expected.
 
-Regression testing is a tedious task and time-consuming, so we use automation testing which can save a huge amount of time and increase team productivity. My idea is to integrate ML&DL will increase efficiency and save time as well as provide high-quality output, which is the main purpose of the quality itself. In regards, to error detection sometimes the testers add the same bugs again and again over the years, and if there is a tool to help him/her easily help to give information full information about the bug, and suggest a solution. Also, if we are talking about why not automation testing resolves these issues, I would have to say there are many challenges that face UI automation, which we overcome in my solutions.
+Regression testing is a tedious task and time-consuming, so we use automation testing which can save a huge amount of time and increase team productivity. My idea is to integrate ML&DL, which will increase efficiency and save time as well as provide high-quality output, which is the main purpose of the quality itself. In regards, to the error detection if there is a tool that help  easily to give a full information about the bug, and suggest a solution, it would add a huge value. Also, if we are talking about why not automation testing resolves these issues, the answer because there are many challenges that face UI automation, which makes any effort to overcome these iusses a great effert and will help alot overcome.
 
 
 
