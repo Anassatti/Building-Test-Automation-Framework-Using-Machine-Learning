@@ -6,7 +6,7 @@ For a couple of years, I was thinking about using machine learning and deep lear
 
 **What is the Regression test**
 
-In simple words, a regression test is a kind of test testers do after bug fixing to ensure that there is no impact on other functionalities and that everything working well.
+In simple words, a regression test is a kind of test testers do after bug fixing to ensure that there is no impact on other functionalities and everything working well.
 
 **Bug**
 
