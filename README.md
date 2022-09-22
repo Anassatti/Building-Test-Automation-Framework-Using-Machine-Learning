@@ -29,9 +29,14 @@ I will divide the projects in two phases
 
 ** Regression Project phases**
 
-1.	Planning- Done
-2.	Design phase- Done
-3.	Implementation: Done
+I follow below methodology 
+
+![image](https://user-images.githubusercontent.com/73906550/191712373-29a695e9-a32f-4b4c-b911-02b3f4e24ffc.png)
+
+
+
+
+
 I follow divide and conquer concepts, which means break the projects into sub-projects as the below:
 
   **1. Building Machine Learning Solution for image processing by trying to detect human faces** 
