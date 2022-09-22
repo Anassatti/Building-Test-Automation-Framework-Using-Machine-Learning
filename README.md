@@ -2,10 +2,32 @@
 
 **Indroduction**
 
-For a couple of years, I was thinking to reduce the effort and the time spent in regression testing, which is unavoidable despite the integration of automation testing. Using automation tools in regression help a lot, but still writing code and building a robust test automation framework need an experienced person, who has a solid technical background. So, from here I came up with an idea of how to fully utilize manual testers who do not have a technical background and let them be part of the automation effort, and ROI will increase. Therefore, the RegressVisual tool comes to the light. This tool detects any issues in UI using deep learning and ML.
+For a couple of years, I was thinking about using machine learning and deep learning in automation and manual testing to save the time spent by the testers and increase their efficiency. There are two areas in that I am targeted regression test and in bug detection.
+
+**what is the Regression test**
+
+In simple words, a regression test is a kind of test testers do after bug fixing to ensure that there is no impact on other functionalities and that everything working well.
+
+**Bug**
+
+The bug is an error or exception that happened during the testing process to prevent the UAT from working as expected.
+
+Regression testing is a tedious task and time-consuming, so we use automation testing which can save a huge amount of time and increase team productivity. My idea is to integrate ML&DL will increase efficiency and save time as well as provide high-quality output, which is the main purpose of the quality itself. In regards, to error detection sometimes the testers add the same bugs again and again over the years, and if there is a tool to help him/her easily help to give information full information about the bug, and suggest a solution. Also, if we are talking about why not automation testing resolves these issues, I would have to say there are many challenges that face UI automation, which we overcome in my solutions.
 
 
-**Project phases**
+
+**UI Automation Challenges**
+1. Complicated Web Applications
+2. UI changes
+3. Choosing test automation tool
+4. Error handling
+5.Image comparison
+
+I will divide the projects in two phases
+
+1. ***Phase one**
+
+** Regression Project phases**
 
 1.	Planning- Done
 2.	Design phase- Done
@@ -35,12 +57,7 @@ Also, I used the model in detect my friend picture
 
 As I mentioned earlier this tool help in regression testing automation effort by allowing manual or automation testers to visually detect any differences in UI. Below is the challenges any software test automation engineer face in UI automation.
 
-**UI Automation Challenges**
-1. Complicated Web Applications
-2. UI changes
-3. Choosing test automation tool
-4. Error handling
-5.Image comparison
+
 
 I overcome all these challenges in the below RegressVisaul tool architecture:
 
@@ -117,9 +134,14 @@ The report looks like below
 
 
 
-***Next Phase***
+***Next Step***
 
 I am working in improving RegressVisaul tool user interface.
+
+
+****Phase two****
+
+This phase I will built a deep learning solution for bugs detection as I mentioned in my introduction, aslo I integration this solution in my **RegressVisual Tool**
 
 
 
