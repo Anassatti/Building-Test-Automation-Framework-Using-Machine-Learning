@@ -141,7 +141,7 @@ I am working in improving RegressVisaul tool user interface.
 
 ****Phase two****
 
-This phase I will built a deep learning solution for bugs detection as I mentioned in my introduction, aslo I integration this solution in my **RegressVisual Tool**
+In this phase I will build a deep learning solution for bugs detection as I mentioned in my introduction, and aslo I will integrate this solution in my **RegressVisual Tool**
 
 
 
